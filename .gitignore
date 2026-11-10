@@ -50,3 +50,6 @@ image.png
 
 keepplus.zip
 .gitconfig
+.bash*
+.profile
+.gemini
